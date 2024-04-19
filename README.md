@@ -20,7 +20,7 @@ Image source: https://medium.com/data-science-101/movie-recommendation-system-co
 
 GATHER AND ANALYZE DATA
 
-   Datasets: movies.csv and ratings.csv
+   Datasets: movies.csv and ratings.csv from Kaggle
 
    Pandas and Jupyter notebook
 
