@@ -11,6 +11,7 @@ A movie viewer is continuously scrolling through movies to view for 10-15 mins o
 To solve the issue for the viewer and movie provider, a movie recommend system is constructed by using machine learning.
 
 OBJECTIVE
+
 The objective is to construct a movie recommend system that predicts movies to watch based on viewers past history.  The movie recommend system will notice a movie based on past viewing history, select a movie with a high correlation, high rating and high rating count.  A movie with a high correlation, high rating and high rating count is predicted a good movie to watch.  The movie recommend type is content based filtering and it suggest similar items based on a particular item.  This system uses item metadata, such as genre, ratings, director, description, actors, etc. for movies, to make these recommendations.  The general idea behind this recommender system is that if a person liked a particular item, he or she will also like an item that is similar to it.
 
 ![image](https://github.com/Matendy12/Project-4/assets/147276040/1b896a56-01e7-4fad-9aed-e5f72c46a04d)
