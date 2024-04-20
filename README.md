@@ -33,3 +33,5 @@ https://www.google.com/search?q=Is+sklearn+a+machine+learning&oq=Is+sklearn+a+ma
 
    
 https://public.tableau.com/app/profile/belinda.oshomuvwe/viz/Project-4IMDBMovies/BasedonGenreofStar4
+
+https://www.kaggle.com/code/harshitshankhdhar/eda-on-imdb-movies-dataset
