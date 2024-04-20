@@ -6,13 +6,13 @@ MOVIE RECOMMEND SYSTEM
 
 DEFINE PROBLEM
 
-A movie viewer is continuously scrolling through movies to view for 10-15 mins or possibly more. This can be discouraging to a viewer when their main goal is to find a movie to watch that interest them. If the problem persist it could possibly cause the viewer to look elsewhere for movies or cancel membership if they are not able to find movies of interest at a reasonable amount of time (5-10 mins).  
+A movie viewer is continuously scrolling through movies to view for 10-15 minutes or possibly more. This can be discouraging to a viewer when their main goal is to find a movie to watch that interest them. If the problem persists it could cause the viewer to look elsewhere for movies or cancel membership if they are not able to find movies of interest at a reasonable amount of time (5-10 mins).  
 
-To solve the issue for the viewer and movie provider, a movie recommend system is constructed by using machine learning.
+To solve the issue for the viewer and movie provider, a movie recommendation system is constructed by using machine learning.
 
 OBJECTIVE
 
-The objective is to construct a movie recommend system that predicts movies to watch based on viewers past history.  The movie recommend system will notice a movie based on past viewing history, select a movie with a high correlation, high rating and high rating count.  A movie with a high correlation, high rating and high rating count is predicted a good movie to watch.  The movie recommend type is content based filtering and it suggest similar items based on a particular item.  This system uses item metadata, such as genre, ratings, director, description, actors, etc. for movies, to make these recommendations.  The general idea behind this recommender system is that if a person liked a particular item, he or she will also like an item that is similar to it.
+The objective is to construct a movie recommendation system that predicts movies to watch based on viewers' history.  The movie recommend system will notice a movie based on past viewing history, and select a movie with a high correlation, high rating and high rating count.  A movie with a high correlation, high rating and high rating count is predicted a good movie to watch.  The movie recommends type is content-based filtering and it suggests similar items based on a particular item.  This system uses item metadata, such as genre, ratings, director, description, actors, etc. for movies, to make these recommendations.  The general idea behind this recommender system is that if a person likes a particular item, he or she will also like an item that is similar to it.
 
 ![image](https://github.com/Matendy12/Project-4/assets/147276040/1b896a56-01e7-4fad-9aed-e5f72c46a04d)
 
